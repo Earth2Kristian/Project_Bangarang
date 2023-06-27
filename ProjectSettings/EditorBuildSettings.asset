@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: 7ba5d32ff0e39a349b70341a46e9c60b
+  - enabled: 1
+    path: Assets/Scenes/MenuScreen.unity
+    guid: b8149ef02f7facb41954d282b4759a01
+  - enabled: 1
+    path: Assets/Scenes/GalleryScreen.unity
+    guid: f7bbff49e956be14491b4f8ebdc54957
+  - enabled: 1
+    path: Assets/Scenes/GalleryKyle.unity
+    guid: b0ebf9aaa58e80e428b6ffbe3f2f6668
+  - enabled: 1
+    path: Assets/Scenes/GalleryRex.unity
+    guid: 21e42c8192a06b24aa9381ea2bb400de
+  - enabled: 1
+    path: Assets/Scenes/OptionScreen.unity
+    guid: 263aee9180bdcc647b6434793b80f049
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelectScreen.unity
+    guid: bb5aa466938947a468ade30da78ebb2c
+  - enabled: 1
+    path: Assets/Scenes/Stage1AI.unity
+    guid: 53bfef1bb743ac84a9a85a5d083eb748
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelectScreenMultiplayer.unity
+    guid: 8df7b0b03088f8d4c94008e1eb8234f1
+  - enabled: 1
+    path: Assets/Scenes/Stage1Multiplayer.unity
+    guid: 9bcc2a0ac107af84ba8d7e98c0012f8f
+  - enabled: 1
+    path: Assets/Scenes/GalleyRobin.unity
+    guid: 4745409a8037938489dd834c252e6227
+  - enabled: 1
+    path: Assets/Scenes/GalleryLloyd.unity
+    guid: 86d9639409e2235449c0ae7c70a1d94c
+  - enabled: 1
+    path: Assets/Scenes/Stage2Multiplayer.unity
+    guid: 93ac52b35ad7bf7448232a9819b48d7b
+  - enabled: 1
+    path: Assets/Scenes/Stage3MultiplayerFixed.unity
+    guid: 0203588c94c2acd46a89b4ca89cc8454
+  - enabled: 1
+    path: Assets/Scenes/Stage4Multiplayer.unity
+    guid: 028ad96de54825349a2982af61ef54c3
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelectScreenMultiplayerDungeon.unity
+    guid: 2c92f9cf2051b9f44a160750bc5817b0
+  - enabled: 1
+    path: Assets/Scenes/StageScreenMultiplayer.unity
+    guid: aa92804a90cc67f41966d162c32d7bf1
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelectScreenMultiplayerDesert.unity
+    guid: b540337ce8c1b354baec36b20fd04859
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelectScreenMultiplayerCity.unity
+    guid: 41963133bef0cba478a924870008d35c
+  - enabled: 1
+    path: Assets/Scenes/StageScreenAI.unity
+    guid: b2e4e5d7cff67bf4f87c1545a74a96a6
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelectScreenAICity.unity
+    guid: 9d95e49e4c5a168438d2dbde6ff82cdd
+  - enabled: 1
+    path: Assets/Scenes/Stage3AI.unity
+    guid: 1309e5704f7ab804c8d5cf4f8447d681
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelectScreenAIDungeon.unity
+    guid: 20ebc9ecbe2acc046bc09177876b15f9
+  - enabled: 1
+    path: Assets/Scenes/Stage2AI.unity
+    guid: e4e187304276ab0428c045ae53e7a740
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelectScreenAIDesert.unity
+    guid: 44b65e40bf2a3094e8b1e108f8230ee8
+  - enabled: 1
+    path: Assets/Scenes/Stage4AI.unity
+    guid: 2c24a9cccefccd443b1f0b381df27ce5
+  - enabled: 1
+    path: Assets/Scenes/TrainingScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: cae0738c05447384abd67b3b0035141e, type: 2}
